@@ -22,4 +22,4 @@
 
 [I - Coins](I%20-%20Coins.cpp)
 
-> You can also find my DP pdf 
+> You can also find my DP pdf course
