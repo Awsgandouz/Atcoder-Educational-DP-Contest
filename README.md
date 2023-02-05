@@ -3,7 +3,7 @@
 # Educational DP Contest
 > Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
 
-[A - Frog 1]
+[A - Frog 1](src/A%20-%20Frog%201.cpp)
 
 [B - Frog 2](src/B%20-%20Frog%202.cpp)
 
