@@ -12,7 +12,7 @@ typedef vector<ll>vl;
  
 void solve() {
 	
-	int n , w;
+    int n , w;
     cin >> n >> w;
     ll v[n][2];
     for(int i = 0 ; i < n ;i++){
