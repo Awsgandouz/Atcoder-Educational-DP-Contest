@@ -12,8 +12,8 @@ typedef vector<ll>vl;
  
 void solve() {
 	
-	int n ;
-	cin>>n;
+   	int n ;
+   	cin>>n;
 	ll day[n][3];
 	for(int i=0;i<n;i++){
 		cin>>day[i][0]>>day[i][1]>>day[i][2];
