@@ -14,7 +14,7 @@ ll dp[100001][101];
  
 void solve(){
 	
-	ll n , wt;
+  ll n , wt;
   cin >> n >> wt;
   ll v[n] , w[n];
   for(int i=0 ; i < n ;i++) cin>> w[i] >> v[i];
