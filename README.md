@@ -2,7 +2,7 @@
 
 # Educational DP Contest
 
-[DP COURSE](DP%0course.pdf)
+[DP COURSE](Dynamic%20Programming%20Aws%20Ben%20Gandouz.pdf)
 
 > Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
 
