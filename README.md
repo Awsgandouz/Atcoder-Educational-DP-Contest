@@ -2,8 +2,6 @@
 
 # Educational DP Contest
 
-[DP COURSE](Dynamic%20Programming%20Aws%20Ben%20Gandouz.pdf)
-
 > Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
 
 [A - Frog 1](A%20-%20Frog%201.cpp)
@@ -23,3 +21,5 @@
 [H - Grid 1](H%20-%20Grid%201.cpp)
 
 [I - Coins](I%20-%20Coins.cpp)
+
+# You can find my DP pdf course in sheet folder
