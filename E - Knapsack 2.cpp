@@ -18,20 +18,20 @@ void solve(){
   cin >> n >> wt;
   ll v[n] , w[n];
   for(int i=0 ; i < n ;i++) cin>> w[i] >> v[i];
- 
-	for(int i = 0 ;i <= n;i++) dp[0][i]=0;
-	for(int i = 1;i <= 100000; i++) dp[i][n]=wt+1;
+  
+  for(int i = 0 ;i <= n;i++) dp[0][i]=0;
+  for(int i = 1;i <= 100000; i++) dp[i][n]=wt+1;
 
   for(int i = 1; i <= 100000; i++){
-		for(int j = n-1; j>=0 ;j--){
-			dp[i][j] = dp[i][j+1];
-			if(i-v[j]>=0) dp[i][j] = min(dp[i][j],w[j]+dp[i-v[j]][j+1]);
-		}
+	for(int j = n-1; j>=0 ;j--){
+		dp[i][j] = dp[i][j+1];
+		if(i-v[j]>=0) dp[i][j] = min(dp[i][j],w[j]+dp[i-v[j]][j+1]);
 	}
+  }
   
-	ll ans = 0;
-	for(int i = 0;i <= 100000; i++) if(dp[i][0]>0&&dp[i][0]<=wt) ans = max(ans,(ll)i);
-	cout <<  ans << endl;
+  ll ans = 0;
+  for(int i = 0;i <= 100000; i++) if(dp[i][0]>0&&dp[i][0]<=wt) ans = max(ans,(ll)i);
+  cout <<  ans << endl;
  
 }
  
