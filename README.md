@@ -12,20 +12,3 @@
 [G - Longest Path](src/G%20-%20Longest%20Path.cpp)
 [H - Grid 1](src/H%20-%20Grid%201.cpp)
 [I - Coins](src/I%20-%20Coins.cpp)
-J - Sushi
-K - Stones
-L - Deque
-M - Candies
-N - Slimes
-O - Matching
-P - Independent Set
-Q - Flowers
-R - Walk
-S - Digit Sum
-T - Permutation
-U - Grouping
-V - Subtree
-W - Intervals
-X - Tower
-Y - Grid 2
-Z - Frog 3
