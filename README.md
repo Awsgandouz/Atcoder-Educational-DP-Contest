@@ -1,8 +1,11 @@
 ![](https://img.atcoder.jp/assets/logo.png)
 
 # Educational DP Contest
-> Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
+
 [DP COURSE](Dynamic%20Programming%20Aws%20Ben%20Gandouz.pdf)
+
+> Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
+
 [A - Frog 1](A%20-%20Frog%201.cpp)
 
 [B - Frog 2](B%20-%20Frog%202.cpp)
