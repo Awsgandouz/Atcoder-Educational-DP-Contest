@@ -1,6 +1,5 @@
 ![](https://img.atcoder.jp/assets/logo.png)
-![image](https://user-images.githubusercontent.com/94719195/228986015-497c2b19-e8b6-4543-867e-f3026017f351.png)
-
+![image](https://user-images.githubusercontent.com/94719195/228986140-fc80e03c-a257-4a2a-85a2-f37a8247f375.png)
 # Educational DP Contest
 
 > Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
