@@ -1,6 +1,5 @@
 ![](https://img.atcoder.jp/assets/logo.png)
-![dpCourse](https://user-images.githubusercontent.com/94719195/228985617-63fd6196-ef71-4805-af49-8cd483f49a10.png)
-
+![image](https://user-images.githubusercontent.com/94719195/228986015-497c2b19-e8b6-4543-867e-f3026017f351.png)
 
 # Educational DP Contest
 
