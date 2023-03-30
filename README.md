@@ -1,5 +1,4 @@
 ![](https://img.atcoder.jp/assets/logo.png)
-![image](https://user-images.githubusercontent.com/94719195/228986140-fc80e03c-a257-4a2a-85a2-f37a8247f375.png)
 # Educational DP Contest
 
 > Accepted solutions to the [Atcoder Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
@@ -22,4 +21,5 @@
 
 [I - Coins](I%20-%20Coins.cpp)
 
-> You can also find my DP pdf course
+> You can also find my introductory course 
+[pdf Course](https://github.com/Awsgandouz/Atcoder-Educational-DP-Contest/blob/main/Dynamic%20Programming%20%20Aws%20Ben%20Gandouz.pdf)
